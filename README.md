@@ -4,7 +4,7 @@
 ## Welcome! 
 Thanks for checking out this data analysis project on Titanic survivors.
 
-**To do this challenge, we need a basic understanding of Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, and Seaborn.** 
+To do this challenge, we need a basic understanding of Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, and Seaborn.** 
 
 ## The Challenge 
 My challenge was to analyze the Titanic dataset and find out what factors influenced the rate of survival during the Titanic incident.
@@ -37,11 +37,11 @@ The rate of survival depends on:
 ## Additional Data
 To enhance the analysis, I gathered some additional data points: 
 
-6. Age 
-7. Deck
-8. Lifeboat 
-9. Cabin 
-10. Port of Rescue 
+- Age
+- Deck
+- Lifeboat 
+- Cabin 
+- Port of Rescue 
 
 ## Data Visualization  
 Let's use Matplotlib and Seaborn to create compelling visuals that bring out the patterns in the data.
