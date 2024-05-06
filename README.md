@@ -1,15 +1,15 @@
-# Titanic_Survivor_Analysis :ship: :chart_with_upwards_trend:
+# Titanic_Survivor_Analysis 
   Ananlysis of Titanic Survivors
 
-## Welcome! :wave:
+## Welcome! 
 Thanks for checking out this data analysis project on Titanic survivors.
 
 **To do this challenge, we need a basic understanding of Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, and Seaborn.** 
 
-## The Challenge :muscle:
+## The Challenge 
 My challenge was to analyze the Titanic dataset and find out what factors influenced the rate of survival during the Titanic incident.
 
-## The Conclusion : :pencil:
+## The Conclusion 
 I was able to draw the following conclusions. 
 
 The rate of survival depends on:
@@ -34,7 +34,7 @@ The rate of survival depends on:
    
    -Queenstown: Passengers who boarded from Queenstown had the lowest survival rate. 
 
-## Additional Data :clipboard:
+## Additional Data
 To enhance the analysis, I gathered some additional data points: 
 
 6. Age 
@@ -43,20 +43,20 @@ To enhance the analysis, I gathered some additional data points:
 9. Cabin 
 10. Port of Rescue 
 
-## Data Visualization :bar_chart: 
+## Data Visualization  
 Let's use Matplotlib and Seaborn to create compelling visuals that bring out the patterns in the data.
 
-## Statistical Analysis  :chart_with_upwards_trend:
+## Statistical Analysis  
 I performed various statistical tests to assess the significance of the relationships found. For example, I used the Chi-square test to analyze the dependence between gender and survival.
 
-## Data Cleaning and Preprocessing :broom:
+## Data Cleaning and Preprocessing 
 Before conducting the analysis, I ensured proper data cleaning and preprocessing steps, including handling missing values, outliers, and data normalization. 
 
 
-## Data Storytelling :book: 
+## Data Storytelling  
 I framed my conclusions in the form of a data story, explaining the context of the Titanic incident and how each factor contributed to survival rates.
 
-## Documentation :memo:
+## Documentation 
 I made sure to document the Jupyter Notebook with clear explanations of the steps taken, my thought process, and any challenges faced during the analysis. 
 
 Remember, data analysis is an iterative process, and there's always room for improvement and further exploration.
